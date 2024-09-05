@@ -1,3 +1,6 @@
+# About this fork
+This fork contains all non-bc-breaking pull requests from the original repository.
+
 # referer-parser PHP library
 
 This is the PHP implementation of [referer-parser][referer-parser], the library for extracting search marketing data from referer _(sic)_ URLs.
